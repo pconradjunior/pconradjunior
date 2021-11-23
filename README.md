@@ -1,7 +1,7 @@
 ### Oi, eu sou o Pedro, um desenvolvedor de software que é meio maluco por café
 
 - Quanto mais tempo passa, mais aprendo e mais tenho a aprender 
-- Café produz código, desde que na dose certa :coffee:
+- Café produz código, desde que na dose certa
 - Curiosidade é fundamental na minha área de trabalho
 
 
@@ -10,6 +10,9 @@
 [<img align="left" alt="Meu Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br/>
+<br/>
 
 ### Linguagens e Tecnologias
 
@@ -30,7 +33,7 @@
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 
 <br />
-
+<br />
 
 ### Ferramentas de Desenvolvimento:
 
