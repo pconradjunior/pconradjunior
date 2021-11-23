@@ -1,4 +1,4 @@
-### Oi, eu sou o Pedro, um desenvolvedor de software que é meio maluco por café[website]
+### Oi, eu sou o Pedro, um desenvolvedor de software que é meio maluco por café
 
 - Quanto mais tempo passa, mais aprendo e mais tenho a aprender 
 - Café produz código, desde que na dose certa ::coffee::
