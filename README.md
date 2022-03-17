@@ -4,18 +4,6 @@
 - Coffee helps producing code, but use it wisely.
 - Curiosity and persistence is all you need to go further 
 
-### Contact links:
-
-[<img align="center" alt="Portfolio" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="center" alt="Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-[<img align="center" alt="LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-<br/>
-<br/>
-
 ### Technologies I use
 
 <img align="left" alt="PHP" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
@@ -55,8 +43,15 @@
 <br />
 <br />
 
+### More information about me and my work
+
+[<img align="center" alt="Portfolio" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] My Portfolio
+
+[<img align="center" alt="LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] My Profile
+
+
+
 
 [website]: https://pconradjunior.github.io
-[twitter]: https://twitter.com/pconradjunior
 [linkedin]: https://www.linkedin.com/in/pconradjunior/
 
