@@ -1,20 +1,19 @@
-### Oi, eu sou o Pedro, um desenvolvedor de software que é meio maluco por café
+### Hello, I'm Pedro, a software developer that is coffee addicted, among other things:
 
-- Quanto mais tempo passa, mais aprendo e mais tenho a aprender 
-- Café produz código, desde que na dose certa
-- Curiosidade é fundamental na minha área de trabalho
+- I'm constantly learning, and the most I learn, I see that I have a lot to learn yet.
+- Coffee helps producing code, but use it wisely.
+- Curiosity and persistence is all you need to go further 
 
+### Contact links:
 
-### Links de Contato:
-
-[<img align="left" alt="Meu Portfolio" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Portfolio" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/>
 <br/>
 
-### Linguagens e Tecnologias
+### Technologies I use
 
 <img align="left" alt="PHP" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 
@@ -35,7 +34,7 @@
 <br />
 <br />
 
-### Ferramentas de Desenvolvimento:
+### Development Tools
 
 <img align="left" alt="Linux" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 
@@ -56,5 +55,5 @@
 
 [website]: https://pconradjunior.github.io
 [twitter]: https://twitter.com/pconradjunior
-[linkedin]: https://www.linkedin.com/in/pedro-conrad-junior-683622a2/
+[linkedin]: https://www.linkedin.com/in/pconradjunior/
 
