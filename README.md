@@ -1,8 +1,11 @@
-### Hello, I'm Pedro, a software developer that is coffee addicted, among other things:
+### Hello, I'm Pedro, a software developer that is coffee addicted, and a learner. 
+
+Here are some things I learned during my journey:
 
 - I'm constantly learning, and the most I learn, I see that I have a lot to learn yet.
+- Curiosity and persistence is all you need to go further.
+- Don't forget to rest your mind and body sometimes. It helps a lot.
 - Coffee helps producing code, but use it wisely.
-- Curiosity and persistence is all you need to go further 
 
 ### Technologies I use
 
